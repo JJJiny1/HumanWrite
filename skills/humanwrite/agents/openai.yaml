@@ -1,0 +1,4 @@
+interface:
+  display_name: "HumanWrite"
+  short_description: "Natural prose with coherent essay arguments"
+  default_prompt: "Use $humanwrite to help me draft or revise clear, natural prose and check argument consistency."
