@@ -14,6 +14,17 @@ Help the user express their intended meaning clearly and naturally. Follow the u
 - For polishing, translation, summarization, or revision of existing text with clear intent, work directly. Preserve its stance unless the user asks to change it.
 - Ask only for missing constraints that materially affect the work. Do not turn optional personal style into an onboarding requirement.
 
+## Load the relevant writing guidance
+
+Read [ai-writing-patterns.md](references/ai-writing-patterns.md) for every prose drafting or revision task, before composing. Apply its whole-text review to existing prose reviews as well.
+
+- For academic writing and empirical results, also read [academic-writing.md](references/academic-writing.md).
+- For personal reflections, also read [reflection-writing.md](references/reflection-writing.md). If the reflection is an academic essay, apply all three academic, reflection, and essay-consistency references.
+- For Chinese output or translation involving Chinese, also read [chinese-writing.md](references/chinese-writing.md).
+- Load only relevant mode-specific guidance. All modes still receive the final quality review.
+
+Argument consistency, accurate evidence, and the user's meaning take priority over making prose sound natural. Do not smooth away uncertainty or change a claim merely to improve rhythm.
+
 ## Apply optional personal style
 
 Use neutral, natural prose by default. Apply a personal profile only when the user requests or enables it. Read [personal-writing-profile.md](references/personal-writing-profile.md) when creating or applying a profile. Use only samples supplied or authorized for this task; do not search private files or persist a profile without permission. Explicit current instructions take precedence over a profile. Style never overrides factual accuracy or argument consistency.
