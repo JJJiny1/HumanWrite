@@ -14,6 +14,30 @@ HumanWrite is an instruction package for AI assistants that support skills. It i
 
 Reviews can reduce errors but cannot guarantee that every logical problem will be found or replace checking original sources. HumanWrite does not promise AI-detector evasion or invent citations or personal experiences.
 
+## Quick Start
+
+### Option 1: Copy & Paste (No Installation)
+
+For ChatGPT, Claude, Gemini, and other AI assistants.
+
+1. Open [HumanWrite Full Prompt](prompts/HumanWrite-Full.md).
+2. Copy the entire prompt.
+3. Paste it into your AI assistant.
+4. Start writing naturally.
+
+No installation or additional files required.
+
+### Option 2: Install as an Agent Skill
+
+For Codex, Claude Code, and compatible AI agents.
+
+```bash
+npx skills add JJJiny1/HumanWrite
+```
+
+Or follow the manual installation instructions below.
+
+
 ## Installation
 
 Install the complete `skills/humanwrite/` folder, including `SKILL.md`, `references/`, and `agents/`.
